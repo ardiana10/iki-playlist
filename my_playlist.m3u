@@ -184,7 +184,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/MY CHANNELS.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="MY CHANNELS",SpoTV 2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
  
-#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://www.transvision.co.id/img/channel/new/TVRI%20SPORT.jpg" group-title="MY CHANNELS",TVRI SPORT
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKVqovwIuXRzNdla194pBBCKK39d8D_ucdw&s" group-title="MY CHANNELS",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA BARAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0SBSRgwJBW6Inl7gbrGkopNWQNLP0f6pEQ&s" group-title="MY CHANNELS",TVRI JAWA BARAT
@@ -865,6 +865,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8237type=drm
 #EXTINF:-1 tvg-id="Mentari TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="MY CHANNELS",Mentari TV
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+
 
 
 
