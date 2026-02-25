@@ -1184,15 +1184,6 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 ###https://dsgtq5sngxkde.cloudfront.net/live/eds/Indosiar/sa_dash/Indosiar.mpd
 ###http://iptvid.my.id/hmm/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xqY87ZwN/fifa.jpg" group-title="OLAHRAGA",FIFA+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xqY87ZwN/fifa.jpg" group-title="MY CHANNELS",FIFA+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ae/f0/79/aef0797e1e430ea6ced8baad14a32356.jpg" group-title="OLAHRAGA",Fifa Channel
-https://play.bestv.my.id/f9a585d638f979322c418bd8b6aa1d38.m3u8
-
-#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="OLAHRAGA", FIFA+
-https://play.bestv.my.id/f42b719b46398355b70dd47a97647147.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="OLAHRAGA", FIFA+
-https://play.bestv.my.id/97d0147e29bc7f1368d6df14ec99815a.m3u8
