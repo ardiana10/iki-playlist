@@ -2552,7 +2552,7 @@ http://play.bestv.my.id/e43bad0a43c6e5e663d3b58a667a0dc0.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="TV INDONESIA", BRTV
-http://play.bestv.my.id/cceb6eafb7b55598e78e1cd32ba11cdc.m3u8
+https://play.bestv.my.id/d8e9b3b9256e5fafa7d0c637cb0ef25a.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2560,4 +2560,5 @@ http://play.bestv.my.id/cceb6eafb7b55598e78e1cd32ba11cdc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXDvPyN9uokKyMC1Aatl6WqZZMORa2K5RMFY6OnH07VuadmnK40zK3xwCmyzBHX9KOdFVnmsse03h9DCtgVqRFvI80NkWozqSI8WdHP3WhgvFNZEiykJfDrFQpuzAEY3sD5yVrNC8S5Whnz5po2V2Jew6tjKWS-nKf7GhDq0JsW5TaLuO-dsZlMxqhNczw/s700/HANACARAKA.png" group-title="TV INDONESIA" ,HANACARAKA TV
 https://play.bestv.my.id/38cf805b3d003536aaa6085e900c9ba2.mpd
+
 
