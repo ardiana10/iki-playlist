@@ -2397,3 +2397,10 @@ https://play.bestv.my.id/8dca3a8d70ce140e29084feaf4cf316a.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="TV9.NU.id" group-title="RELIGI" ch-number="29" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png",TV9
 https://play.bestv.my.id/749de2a48cc645087fab16e5e50f19d8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a7/94/e8/a794e8df7438e0496a89574e50526415.jpg" group-title="HIBURAN", TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://play.bestv.my.id/eb73000d6565e24f4dd34adc1d841938.mpd
