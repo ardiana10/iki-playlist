@@ -1232,9 +1232,18 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 ##http://203.77.246.58:4500/udp/239.1.2.226:5000
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",HIBURAN
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-https://play.bestv.my.id/f21f46cc35f767a2b277f5770bfc3464.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+https://play.bestv.my.id/d2b29fc4670891040cb9fd38fe977633.mpd
+
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax 2
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+https://play.bestv.my.id/972f0739c9f2b8a7d363989c93a0ef61.mpd
 
 #EXTINF:-1 group-title="HIBURAN" tvg-id="Aniplus" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -2558,6 +2567,7 @@ http://play.bestv.my.id/cceb6eafb7b55598e78e1cd32ba11cdc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXDvPyN9uokKyMC1Aatl6WqZZMORa2K5RMFY6OnH07VuadmnK40zK3xwCmyzBHX9KOdFVnmsse03h9DCtgVqRFvI80NkWozqSI8WdHP3WhgvFNZEiykJfDrFQpuzAEY3sD5yVrNC8S5Whnz5po2V2Jew6tjKWS-nKf7GhDq0JsW5TaLuO-dsZlMxqhNczw/s700/HANACARAKA.png" group-title="TV INDONESIA" ,HANACARAKA TV
 https://play.bestv.my.id/38cf805b3d003536aaa6085e900c9ba2.mpd
+
 
 
 
