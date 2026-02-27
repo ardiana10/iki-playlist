@@ -41,11 +41,12 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 ##http://203.77.246.58:4500/udp/239.1.2.226:5000
 
-#EXTINF:-1 group-title="MY CHANNELS" tvg-id="Animax.id" tvg-url="https://bit.ly/MY CHANNELSEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png",Animax 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KIDS
+#EXTINF:-1 group-title="MY CHANNELS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+https://play.bestv.my.id/f21f46cc35f767a2b277f5770bfc3464.mpd
 
 #EXTINF:-1 group-title="MY CHANNELS" tvg-id="Aniplus" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -608,13 +609,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 http://iptvtree.net:8080/live/F28312/cc1dc138/306485.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505837.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="MY CHANNELS",HBO Hits
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="MY CHANNELS",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.bestv.my.id/bdfe815aa17e874904ee19ca6bcb68d2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XEd15.jpg" group-title="MY CHANNELS",HBO Signature
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -638,12 +640,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MY CHANNELS",HGTV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-#EXTINF:-1 tvg-id="History" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png" group-title="MY CHANNELS",History
-https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOrnxL0GuBZ7PFJ4ooJZtHehAVvM380jw3WOnTcgbemfOR1TFl3KWA2Ueu26G8uzkDHnQyrIMqIK-5B7-NIw8dqznR3qd0sWhkxmKLWBb9s4t6rcNgcIAIUQ4I6TnkD5aCwnHieFsQJHVkt5mHjHFOpfx5T-xPADc5FYEJr1JKHMsNWLHEzkcJWuUYhFTr/s700/HISTORY%20HD.png" group-title="MY CHANNELS",HISTORY
+https://play.bestv.my.id/a71e50513197440534a898a67df809ac.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1230,11 +1232,12 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 ##http://203.77.246.58:4500/udp/239.1.2.226:5000
 
-#EXTINF:-1 group-title="HIBURAN" tvg-id="Animax.id" tvg-url="https://bit.ly/HIBURANEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png",Animax 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KIDS
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+https://play.bestv.my.id/f21f46cc35f767a2b277f5770bfc3464.mpd
 
 #EXTINF:-1 group-title="HIBURAN" tvg-id="Aniplus" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1797,14 +1800,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 http://iptvtree.net:8080/live/F28312/cc1dc138/306485.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505837.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HIBURAN",HBO Hits
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XEd15.jpg" group-title="HIBURAN",HBO Signature
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1827,12 +1822,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="HIBURAN",HGTV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-#EXTINF:-1 tvg-id="History" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png" group-title="HIBURAN",History
-https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOrnxL0GuBZ7PFJ4ooJZtHehAVvM380jw3WOnTcgbemfOR1TFl3KWA2Ueu26G8uzkDHnQyrIMqIK-5B7-NIw8dqznR3qd0sWhkxmKLWBb9s4t6rcNgcIAIUQ4I6TnkD5aCwnHieFsQJHVkt5mHjHFOpfx5T-xPADc5FYEJr1JKHMsNWLHEzkcJWuUYhFTr/s700/HISTORY%20HD.png" group-title="HIBURAN",HISTORY
+https://play.bestv.my.id/a71e50513197440534a898a67df809ac.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -2404,3 +2399,172 @@ https://play.bestv.my.id/749de2a48cc645087fab16e5e50f19d8.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://play.bestv.my.id/eb73000d6565e24f4dd34adc1d841938.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b4/5a/94/b45a949653dd8546b68946ce5d46dad3.jpg" group-title="HIBURAN",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+https://play.bestv.my.id/ae1e33c2cf3208c4902f2f63d2459141.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/44/8c/46/448c469c8fa16baeec0cfa359e7ddcdc.jpg" group-title="HIBURAN",Movie Music
+https://play.bestv.my.id/0f23e9751bffc5026f242e5facab89d1.m3u8
+
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://i.pinimg.com/236x/b4/4f/8b/b44f8bdfc1cd7fc12e8fb52446b270d2.jpg" group-title="HIBURAN",MN+
+https://play.bestv.my.id/f2d9f2a2231120b9c4f056297266f689.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://i.pinimg.com/236x/bc/a6/46/bca646faec18d4a728e58e8f5e472793.jpg" group-title="HIBURAN", MNX
+https://play.bestv.my.id/78e6222655c8622a09ad7654f0978282.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/bb/c4/9b/bbc49bae8a1a36b54f4c9f20c25adecc.jpg" group-title="HIBURAN",MGPLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+https://play.bestv.my.id/b6081daba070e4e6cbe927a4374aa622.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/bb/c4/9b/bbc49bae8a1a36b54f4c9f20c25adecc.jpg" group-title="HIBURAN",MGPLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+https://play.bestv.my.id/b6081daba070e4e6cbe927a4374aa622.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f2/73/01/f27301eeabd5c5157187cd0ade859ff8.jpg" group-title="HIBURAN",MGDRIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
+https://play.bestv.my.id/d798f9931b916750dde947e466034d2d.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a4/80/38/a480386fa565aaefd145edfc585eeb55.jpg" group-title="HIBURAN"tvg-id="KIX.d" tvg-name="KIX HD", KIX
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.bestv.my.id/a9b3b7524085377d6f6a310fbe38c561.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="HIBURAN",HBO
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.bestv.my.id/46aee8bc89bd1e4596b5f39f732d70bf.mpd
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Entertain/Hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="HIBURAN",FLIK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
+https://play.bestv.my.id/9723303526a9731401706caa8bcc2d4f.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/41/b2/22/41b2227750488748fbc27e39d9681187.jpg" group-title="HIBURAN",CINEMACHI ACTION
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+https://play.bestv.my.id/620f3a740be388658d85a9f59cc5e070.mpd
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="TV INDONESIA", Indosiar sport 2
+##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
+https://play.bestv.my.id/1e61840dc0b7a13368fe32f86973d7d5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="https://mimipipi22.github.io/logo/news/idx.jpg" group-title="BERITA",IDX
+https://play.bestv.my.id/ef7e2035b418d387e7c9e178aaf9c998.mpd
+https://play.bestv.my.id/b423ccb0ae4a6889964a2a04aa31bd4e.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Jakarta GlobeNews" tvg-name="Jakarta GlobeNews" tvg-logo="https://mimipipi22.github.io/logo/news/jakartaglobe.jpg" group-title="BERITA",JAKARTA GLOBE CHANNEL
+https://play.bestv.my.id/16747a1f7fe473161ad328c13ec9cb70.mpd
+https://play.bestv.my.id/4219d8f6ee98b05924c8ae9e83e00e04.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+#EXTINF:-1 tvg-id="DW.English.id" tvg-name="DW English" tvg-logo="https://mimipipi22.github.io/logo/news/dw.jpg" group-title="BERITA",DW ENGLISH
+https://play.bestv.my.id/17ff36d15d7bf5839da0a00ec21dfa4d.mpd
+https://play.bestv.my.id/5a11799237631174e31a53f4fbd86343.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/17rc425/voa.png" group-title="BERITA",VOA TV
+https://play.bestv.my.id/ab26cbc2eda834222ff2ecee66412926.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/premium.jpg" group-title="HIBURAN",PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://play.bestv.my.id/0280f76d9e06edae5f32d197b16e12b1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/DAAI%20TV.jpg" group-title="RELIGI",DAAI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.bestv.my.id/6b796093135fda3fe135fbac7e77ecc5.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/eat&go.png" group-title="TV NASIONAL",Eat N Go
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.bestv.my.id/eab05002fc19e26600a210432fc898cc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="HIBURAN",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.bestv.my.id/bdfe815aa17e874904ee19ca6bcb68d2.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkDW_-5HWTicwbZsWEcE8fNaHfwv8RHsR_w&usqp=CAU" group-title="HIBURAN",Musik Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.bestv.my.id/49b9a9fd2fa946f7bf4ffdb386f13a30.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq505Bd0BH-e3Chr84A5Ecj97fI8q0WNbyFA&usqp=CAU" group-title="HIBURAN",Movies News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.bestv.my.id/8cd6fb06548c1bfae902a4141a9f943e.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="TV INDONESIA",Trans 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.bestv.my.id/8cfc6c88dfbcc87d695c0f95bb5b92e4.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="TV INDONESIA",Trans TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.bestv.my.id/a1a765cf391c69652d27a90575c98691.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://iili.io/JbtnQjI.png" group-title="TV INDONESIA", ElshintaTV
+https://play.bestv.my.id/0541137d7db65fdf309c37960c30ba04.m3u8
+http://play.bestv.my.id/e43bad0a43c6e5e663d3b58a667a0dc0.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="TV INDONESIA", BRTV
+https://play.bestv.my.id/d8e9b3b9256e5fafa7d0c637cb0ef25a.m3u8
+http://play.bestv.my.id/cceb6eafb7b55598e78e1cd32ba11cdc.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXDvPyN9uokKyMC1Aatl6WqZZMORa2K5RMFY6OnH07VuadmnK40zK3xwCmyzBHX9KOdFVnmsse03h9DCtgVqRFvI80NkWozqSI8WdHP3WhgvFNZEiykJfDrFQpuzAEY3sD5yVrNC8S5Whnz5po2V2Jew6tjKWS-nKf7GhDq0JsW5TaLuO-dsZlMxqhNczw/s700/HANACARAKA.png" group-title="TV INDONESIA" ,HANACARAKA TV
+https://play.bestv.my.id/38cf805b3d003536aaa6085e900c9ba2.mpd
