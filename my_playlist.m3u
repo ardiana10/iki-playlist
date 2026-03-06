@@ -2921,15 +2921,6 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 
-#EXTINF:-1 group-title="INFO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiXT93govUnR-ZUwVuZV8gLh2SEemjhhJPik-qNw8yZnYd2VTlkpnNAHogrTsv2if3hzG1nQpcrgiiQ08CRVOSIxuG0wbtLvpxpC9ZTfw9AxrNepbM5dBlHmkgiX2_ngXuM56RTkoyYNjvMamgg6j7F2gJ86zzGU-WCDsLWfpr44sAFmh7Sktf0xnhaVjO/s700/GEULIS%201.png",! 01 TV GEULIS PISAN
-https://sauridigital.my.id/infogeulis/INFO%20TV%20GEULIS%20PISAN%20V2.mp4
-
-#EXTINF:-1 group-title="INFO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 02 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="INFO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 03 JANGAN DIBUKA
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqawusMlwsqiwhzRabEOgiKv8GGZJj6EhZpMdT4LU4gK8cHBRfTumXUgex12m7Qae5VHa79Fb8QCZ-UN2a4kSbA3uSQYBkPJEQ3M_mJr2DIHauquKbhemyiyx6zC3zZNfZR5IpP882FNkeaZW3v2t6U1v3znm91zd_b1OiuXdWBGXUh2KeZYV2tISord2G/s700/AL%20QURAN%20AL%20KAREEM.png" group-title="INFO",LIVE MAKKAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch14.m3u8
@@ -2986,13 +2977,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/playlist.m3u8
 
 
 ############### LIVE EVENT ###############
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofRMXYA-3dc3fNg7OKCfuposx1mdDx-GrTn3DeJ9HMIrRyJfL4o-diHV4nMN7kmaNeUi4r-2xPC1ZQYc4-SyG24QvAHxBkqACgDxFqLBOL1tRZMLAQcAa9BxzYNTJhgsuBRBTquxuqyCHY2DsPgtJF1mC7MuNDamj88_5x1d-qxdssTFcPvEs5S4huDdO/s700/TIMNAS.png",TIMNAS DAY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -3215,13 +3199,6 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 
 ############### WAYANGAN 9 CH ON ###############
 
-
-#EXTINF:-1 group-title="WAYANGAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="WAYANGAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXDvPyN9uokKyMC1Aatl6WqZZMORa2K5RMFY6OnH07VuadmnK40zK3xwCmyzBHX9KOdFVnmsse03h9DCtgVqRFvI80NkWozqSI8WdHP3WhgvFNZEiykJfDrFQpuzAEY3sD5yVrNC8S5Whnz5po2V2Jew6tjKWS-nKf7GhDq0JsW5TaLuO-dsZlMxqhNczw/s700/HANACARAKA.png" group-title="WAYANGAN",HANACARAKA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3258,14 +3235,6 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 
 ############### RELIGI 72 CH ON ###############
-
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqawusMlwsqiwhzRabEOgiKv8GGZJj6EhZpMdT4LU4gK8cHBRfTumXUgex12m7Qae5VHa79Fb8QCZ-UN2a4kSbA3uSQYBkPJEQ3M_mJr2DIHauquKbhemyiyx6zC3zZNfZR5IpP882FNkeaZW3v2t6U1v3znm91zd_b1OiuXdWBGXUh2KeZYV2tISord2G/s700/AL%20QURAN%20AL%20KAREEM.png",LIVE MAKKAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
@@ -3566,13 +3535,6 @@ http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 
 ############### RADIO 21 CH ON ###############
 
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN0zxfIpzV8sSLvfqAA4QJ9e6MNCDTFYhy4Y3PtXPYwNl3zTnAHa0LX1zLWTZONnA3mrIXRo2TLB5t1gKw08zovJNQ3RZgLP6cpHEcqvDwoApj_Whpe6t8pZKxQl1IOTuIBYX6cs83R-Z7zUMM_Z-FU8nwNQmcAgfsnOAn-dSsh8BoPNMmTKqwvxDE8FaD/s700/RADIO%20DZIKIR%20PAGI.png",RADIO DZIKIR PAGI
 https://ia800309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirPagi.mp3
 
@@ -3638,13 +3600,6 @@ https://a4.siar.us:8230/rjfm
 
 
 ############### ARAB 56 CH ON ###############
-
-
-#EXTINF:-1 group-title="ARAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="ARAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxCz6XIEDbr3LParJz3Eu62fHNzDn5nxkUh-QIbn9JG-p0IT5MKvcWndcOnPqpSyTGW2i4V4uzj9YGVEuKIn03Lb-yB48Xk83qga5P9cmuSIt6HMILU0CIw6cVdXctasYzyPLVVlIqljzyAA4Ex9m1MEwM0bQfg_9qxUn5F1thtNAhyphenhyphenMkSTh0zTnoZZMA2/s700/RAJEEN%20TV.png" group-title="ARAB",RAJEEN TV
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
@@ -3819,13 +3774,6 @@ https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 
 ############### ISLAM WORLD 48 CH ON ###############
 
-
-#EXTINF:-1 group-title="ISLAM WORLD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="ISLAM WORLD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-id="AfricaTV2.tz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWMTmxtK_5iDKkzACCa46WlEhjmFC7ggfhDlRF4GobqQxSaPZ9Kh0YYOGxWk8jNM-35WMCE7mlq1iUbN1FtPjszabKL8z3AYZkfoH3luS6I67mnFToVoePqsQtGiaOjxfNh3bcbCHgD1WvkBZDdBdiqWtsBa8Cka4mPO5dA9gCIiIJkpvN8jRjuiQx6DBJ/s700/AFRICA%20TV%202.png" group-title="ISLAM WORLD",AFRICA TV 2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 
@@ -3974,13 +3922,6 @@ https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 
 ############### YTOFF 24 CH ON ###############
 
-
-#EXTINF:-1 group-title="YTOFF" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="YTOFF" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqawusMlwsqiwhzRabEOgiKv8GGZJj6EhZpMdT4LU4gK8cHBRfTumXUgex12m7Qae5VHa79Fb8QCZ-UN2a4kSbA3uSQYBkPJEQ3M_mJr2DIHauquKbhemyiyx6zC3zZNfZR5IpP882FNkeaZW3v2t6U1v3znm91zd_b1OiuXdWBGXUh2KeZYV2tISord2G/s700/AL%20QURAN%20AL%20KAREEM.png" group-title="YTOFF",LIVE MAKKAH
 https://sauridigital.my.id/balabala/tube-live.php?channel=UCfBw_uwZb_oFLyVsjWk6owQ
 
@@ -4061,13 +4002,6 @@ https://sauridigital.my.id/balabala/tube-live.php?channel=UC73H5p3GP8b5N1f3hozIX
 
 
 ############### DAERAH 70 CH ON ###############
-
-
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXDvPyN9uokKyMC1Aatl6WqZZMORa2K5RMFY6OnH07VuadmnK40zK3xwCmyzBHX9KOdFVnmsse03h9DCtgVqRFvI80NkWozqSI8WdHP3WhgvFNZEiykJfDrFQpuzAEY3sD5yVrNC8S5Whnz5po2V2Jew6tjKWS-nKf7GhDq0JsW5TaLuO-dsZlMxqhNczw/s700/HANACARAKA.png" group-title="DAERAH",HANACARAKA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4402,13 +4336,6 @@ https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/playlist.m3u8
 
 ############### TVRI 33 CH ON ###############
 
-
-#EXTINF:-1 group-title="TVRI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="TVRI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -4676,13 +4603,6 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
 ############### NASIONAL 57 CH ON ###############
 
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="NASIONAL",INDOSIAR WF
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
@@ -4943,13 +4863,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 
 ############### NASIONAL EPG 30 CH ON ###############
 
-
-#EXTINF:-1 group-title="NASIONAL EPG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="NASIONAL EPG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="NASIONAL EPG",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5114,13 +5027,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 
 
 ##### SPORTS #####
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeEOI_Lz6_e1PjvUDOLull54c8oCcnQDdU5zsg-_7E57XW9FAOO_Ca7oU6QPqeo_JU8rs8g6o6HcgVVb4T5PCY5Xk6EgQlMM0kCORJF_jSLpbRszNQaY7xb_S9l8CLgXydmw4fLuD0vFVOYH61HPkp7TvHlBfR1DJHjw8Pl7P41tFUzuKA_yz7DTW8WTkS/s700/MAX%20SPORTS.png" group-title="SPORTS", MAX SPORTS
 https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
@@ -6310,13 +6216,6 @@ https://cdn.bdixtv24.com/SonyTen5HD/index.m3u8
 
 ############### LIGA EROPA 33 CH ON ###############
 
-
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="LIGA EROPA",EPL 1 NOW SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
@@ -6549,13 +6448,6 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10t
 
 ############### KIDS 33 CH ON ###############
 
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfySBAhsmn9UR23UmYoq1gy34zd-LG-TL916KkuIOr0Zg1WARObs5eDpWidxdDJ5LqqTqO_G8bMx4RrVEc_WnDR21E349fdEZm72A865ktF98Fh5649d5h-CUGKhr3KXqvxchNmFsAwyhI8Lg2yeVJ2aUN6CUwyQ-SE9yiSsEY9PkjgAfmxUWTHOjGMSJK/s700/MYKIDZ.png" group-title="KIDS",MYKIDZ
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 
@@ -6757,13 +6649,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 
 ############### KNOWLEDGE 27 CH ON ###############
 
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBRFCDhha6eBvCe_9MiaiCBtUXJ-p5jZc9YUN7YR7Dd102U9rtRUjQ4PFQh6ph7I-d8Mxoh7cX979NmLD2Ue_6kJbLYziL6TJTa-26JHtajdrblbp-HBLVLb3iORq5bAyWofLPikGz7TekQBeNZ9KMnMhcF1wsjmj-UrBxNOaUcHEo_V90tZKnNFXzP5tP/s700/BIZNET%20ADVENTURE.png" group-title="KNOWLEDGE",BIZNET ADVENTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
 
@@ -6927,13 +6812,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 
 ############### ENTERTAINMENT 43 CH ON ###############
-
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNm2A55swquhX724O6qCOaLu3P7Byxugpiay2_JqDpvodczf2leRIEGeNu5aemPzb2KiI9HqzH6eStBxvjjFkgn9Bt808bKF56X6YYbqWQgkoBTc9v77RrZuCK26lLJ-E7Ow_HTa1xHeEOkHs-Agon1vweHBqc7atlpr18echyphenhyphenT4XgDiz3pu_mF1BAvz_E/s700/MAX%20EATS.png",MAX EATS
 https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
@@ -7202,13 +7080,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 ############### MUSIC 28 CH ON ###############
 
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyBe8VGBNsHMSXAQ4CZw3L8yucCJAvbNIVTFP4IER8nglo9Iczb3_QkbvxIQEPLScYvCIxb_2SmPlHpknpPOjcRypALsEpCPHYwWgl5P4WGWNOHchu3UlmZIxrTsGSaJOH_CuqngXCDNAp2Yk3XDkWCTnrZEZLSvcX2Ut9HbNrF4uqnOnwy-ng4Sg2Ela2/s700/MUSIC%20TV.png",MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -7323,13 +7194,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h153/index2.m3u8
 
 ############### HBO 23 CH ON ###############
 
-
-#EXTINF:-1 group-title="HBO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="HBO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-  
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png" group-title="HBO",HBO IP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/hbo.m3u8
@@ -7472,13 +7336,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 ############### FILM 47 CH ON ###############
-
-
-#EXTINF:-1 group-title="FILM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="FILM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
 
 #EXTINF:0 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix2h9OR9FGwA3LLXAf33HzsEol-f9gCBa_DDscSqgvdcfBhKtZysgis9vQX5wZ8p5FVMHBFNZcwZ9rSuw-6UnVYSBL9ksqpXL3Hb7YqCSVFlOt7pXUY0G-76tYaDBd4V5sfN6GzL2Zie_PSWx_51Chr38aEUuzG7Nvb_OyvQICBYv-PsupUYgqYQnhnNp0/s700/MAX%20REELS.png" group-title="FILM",MAX REELS
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -7794,13 +7651,6 @@ http://fl1.moveonjoy.com/FX/index.m3u8
 
 ############### NEWS 3 CH ON ###############
 
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGzc9sQvKudgTVE1KHDsc7zHzM5QQOGAt8kFotyTyGkD7Z77uLKJuWrBlN2HA7ojnzgTG2Z3ODXgKOBYhLPUBYri9y3lD7xNvYQKjaUcwm9PRfndgrLRuN0tID9vRHsYkPIAgIVKQcN13sjp8R6rOeaiQlhJNpZ4XZSZr70kLknrXROCOHaf7Rdsh1_7Da/s700/MSNBC%20HD.png" group-title="NEWS",MSNBC HD
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -7814,13 +7664,6 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 
 ############### TRANSVISION 95 CH ON ###############
-
-
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png" group-title="TRANSVISION",TRANS TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -8680,13 +8523,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90
 
 ############### DENS TV 65 CH ON ###############
 
-
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-id="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpVe1Foh2AoDTG3i4jJmACclO60LT6ynTrkghlCplhiJ7j8iya4wePLcutD7UIMoNoFvTbyK3hsCivYcshdjZ3g_4TwymaBDGELTMvJNHMnAzWh0kwyPmMS5-Wkwn-nBzJgQ5sWxgvXwRGMVc-geClqgfiA3Nb7RaE9Y8lArFcAkz9Wb7WiNymMSaVhYj2/s700/QURAN%20TV.png" group-title="DENS TV", QURAN KAREEM TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -9016,13 +8852,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h158/index2.m3u8
 
 ############### VISION+ IPTV 60 CH ON ###############
 
-
-#EXTINF:-1 group-title="VISION+ IPTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="VISION+ IPTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqawusMlwsqiwhzRabEOgiKv8GGZJj6EhZpMdT4LU4gK8cHBRfTumXUgex12m7Qae5VHa79Fb8QCZ-UN2a4kSbA3uSQYBkPJEQ3M_mJr2DIHauquKbhemyiyx6zC3zZNfZR5IpP882FNkeaZW3v2t6U1v3znm91zd_b1OiuXdWBGXUh2KeZYV2tISord2G/s700/AL%20QURAN%20AL%20KAREEM.png" group-title="VISION+ IPTV", MAKKAH LIVE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 
@@ -9256,13 +9085,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
 
 
 ############### VISION+ 99 CH ON ###############
-
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9970,13 +9792,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/in
 
 ############### INDIHOME TV 63 CH ON ###############
 
-
-#EXTINF:-1 group-title="INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWeTXowPKm3vbGz2EGnUDxw8udaOeALRrWhF6Nwp-R-CrqJSWt8whClicQl_x7s22umRVWSGYU3RQoaSXshdmhAMm30a3IMOhdFUkiDYefr2mrurOXKOtlMxl9zmQ-HTz6Zl0gkt1vJT6pTMzOlTj8Za8nlqomews7g94_qTvsFrs49fn4uGXyI2Hs5-U0/s700/SINPO%20TV.png" group-title="INDIHOME TV",SINPO TV
 #https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
@@ -10195,13 +10010,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
 
 ############### MALAYSIA TV 45 ON ###############
 
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIcMtgnk6gD4Y0_5feUp1z4CNQ8QuRyLmY1fb8vzqGG3OBPZLcZqq0kTJAbaMkuXbKmEK3B2ttbM0eNeNRIPVYVnXtSBMRtKhkMIfmiLFMWnUgki0Fj8W_3vgO4SlcgVB_VxXHsENAmR33u_MhT9ShKbgByZjW7lyN9vFz13JT3KnDl5S3eYJy0e_lP5gQ/s700/TV1.png" "" group-title="MALAYSIA TV",TV1 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
@@ -10417,26 +10225,19 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 ############### FILM INDO 20 ON ###############
 
-
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
-#EXTINF:-1  tvg-logo="https://cdn0-production-images-kly.akamaized.net/Ht-GmMZJ3P_8otzri8xgMfOe8iM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3615944/original/073864200_1635413138-MPV-Punk_In_LoveLandscape.jpg", group-title="FILM INDO", PUNK IN LOVE
+#EXTINF:-1  tvg-logo="https://cdn0-production-images-kly.akamaized.net/Ht-GmMZJ3P_8otzri8xgMfOe8iM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3615944/original/073864200_1635413138-MPV-Punk_In_LoveLandscape.jpg" group-title="FILM INDO", PUNK IN LOVE
 https://tiviku69.github.io/apk/m3u/t42.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/2OoMEFO53_A/maxresdefault.jpg", group-title="FILM INDO", SAUR SEPUH V - ISTANA ATAP LANGIT
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/2OoMEFO53_A/maxresdefault.jpg", group-title="FILM INDO" SAUR SEPUH V - ISTANA ATAP LANGIT
 https://filmovie.github.io/film/urt/hu76i.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0vAoiJL17O3E2ziugIx9yf2YVYvXl7M5Sg&s", group-title="FILM INDO", PENGEPUNGAN DI BUKIT DURI
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0vAoiJL17O3E2ziugIx9yf2YVYvXl7M5Sg&s" group-title="FILM INDO", PENGEPUNGAN DI BUKIT DURI
 https://tiviku69.github.io/apk/m3u/t7.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/230/2025/10/26/abadi-nan-jaya-1669536290.jpg", group-title="FILM INDO", ABADI NAN JAYA
+#EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/230/2025/10/26/abadi-nan-jaya-1669536290.jpg" group-title="FILM INDO", ABADI NAN JAYA
 https://tiviku69.github.io/apk/m3u/t14.m3u8
 
-#EXTINF:-1 tvg-logo="https://material.asset.catchplay.com/MDP-IN-001-A0014/artworks/posters/MDP-IN-001-A0014-P1200.jpg?hash=1763126081", group-title="FILM INDO", PREMAN IN LOVE
+#EXTINF:-1 tvg-logo="https://material.asset.catchplay.com/MDP-IN-001-A0014/artworks/posters/MDP-IN-001-A0014-P1200.jpg?hash=1763126081" group-title="FILM INDO", PREMAN IN LOVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://www.googleapis.com/drive/v3/files/1VqF1X9yTwC_zopFNRKVfltXkqR2uqdY4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -10482,44 +10283,37 @@ https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=
 
 ############### FILM HOROR 47 ON ###############
 
-
-#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20DANA.mp4
-
 #EXTINF:-1  tvg-logo="https://imgx.parapuan.co/crop/0x0:0x0/752x408/filters:format(webp)/photo/2024/07/07/sinopsis-film-narik-sukmojpg-20240707092006.jpg" group-title="FILM HOROR", NARIK SUKMO
 https://tiviku69.github.io/apk/m3u/t62.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/132/2025/04/01/Lampor-Keranda-Terbang-2019-movievaganza-trans7-932156416.jpg", group-title="FILM HOROR", LAMPOR - KERANDA TERBANG
+#EXTINF:-1  tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/132/2025/04/01/Lampor-Keranda-Terbang-2019-movievaganza-trans7-932156416.jpg" group-title="FILM HOROR", LAMPOR - KERANDA TERBANG
 https://tiviku69.github.io/apk/m3u/t15.m3u8
 
-#EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/2025/07/26/film-pamali-tumbal_ratio-16x9.jpg", group-title="FILM HOROR", PAMALI
+#EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/2025/07/26/film-pamali-tumbal_ratio-16x9.jpg" group-title="FILM HOROR", PAMALI
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/ilp61.m3u8
 
-#EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/otf/720x0/2023/02/02/jailangkung-sandekala_ratio-16x9.jpg", group-title="FILM HOROR", JAELANGKUNG SANDEKALA
+#EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/otf/720x0/2023/02/02/jailangkung-sandekala_ratio-16x9.jpg" group-title="FILM HOROR", JAELANGKUNG SANDEKALA
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/i93rZt4.m3u8
 
-#EXTINF:-1  tvg-logo="https://cdn.antaranews.com/cache/1200x800/2022/05/12/IMG_20220512_135230_013.jpg", group-title="FILM HOROR", KKN - DI DESA PENARI
+#EXTINF:-1  tvg-logo="https://cdn.antaranews.com/cache/1200x800/2022/05/12/IMG_20220512_135230_013.jpg" group-title="FILM HOROR", KKN - DI DESA PENARI
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/i9rZt4.m3u8
 
-#EXTINF:-1  tvg-logo="https://hypeabis.id/assets/content/20230201163929000000tb.jpg", group-title="FILM HOROR", TASBIH KOSONG
+#EXTINF:-1  tvg-logo="https://hypeabis.id/assets/content/20230201163929000000tb.jpg" group-title="FILM HOROR", TASBIH KOSONG
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/KcZm3.m3u8
 
-#EXTINF:-1  tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/poster-kajiman-iblis-terkejam-penagih-j-269df3.jpg", group-title="FILM HOROR", KAJIMAN - IBLIS TERKEJAM PENAGIH JANJI
+#EXTINF:-1  tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/poster-kajiman-iblis-terkejam-penagih-j-269df3.jpg" group-title="FILM HOROR", KAJIMAN - IBLIS TERKEJAM PENAGIH JANJI
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/78qs1t.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/_oAGruYMsCA/maxresdefault.jpg", group-title="FILM HOROR", KHANZAB
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/_oAGruYMsCA/maxresdefault.jpg" group-title="FILM HOROR", KHANZAB
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/86Z2tt.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2023/09/10/2913219691.jpg", group-title="FILM HOROR", AIR TERJUN PENGANTIN
+#EXTINF:-1  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2023/09/10/2913219691.jpg" group-title="FILM HOROR", AIR TERJUN PENGANTIN
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/6yfll.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.tangerangnews.com/assets/uploaded/photo/2023/02/03/a566382f7d4ad10d8e4ead1728ef2a32.jpg", group-title="FILM HOROR", SUZANA - MALAM JUMAT KLIWON
+#EXTINF:-1  tvg-logo="https://www.tangerangnews.com/assets/uploaded/photo/2023/02/03/a566382f7d4ad10d8e4ead1728ef2a32.jpg" group-title="FILM HOROR", SUZANA - MALAM JUMAT KLIWON
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/k4idF.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/946/2024/08/23/InShot_20240823_172355716-3319974653.jpg", group-title="FILM HOROR", KANG MAK (PEE MAK)
+#EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/946/2024/08/23/InShot_20240823_172355716-3319974653.jpg" group-title="FILM HOROR", KANG MAK (PEE MAK)
 https://filmovie.github.io/96/t9960i/kafprm.mp4.m3u8
 
 #EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2024/08/11/IMG_20240811_201204-3867138655.jpg", BANDARAWUHI DI DESA PENARI
@@ -10633,6 +10427,7 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDON
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Tasbih.Kosong.2023.1080p.WEB-DL.MalaySub.MSM_2.mp4?
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml,https://s.urfan.id/epg,https://s.urfan.id/epg2,https://s.urfan.id/epg3,https://s.urfan.id/epg4,http://epg.kampung.xyz,https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" refresh="3600"
+
 
 
 
