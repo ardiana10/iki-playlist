@@ -10106,7 +10106,7 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 ###https://dsgtq5sngxkde.cloudfront.net/live/eds/Indosiar/sa_dash/Indosiar.mpd
 ###http://iptvid.my.id/hmm/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="TV INDONESIA", Trans TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NK4FDuTsmSh5KibVRH61dJRuXGM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="TV INDONESIA", Trans TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://20.detik.com/"
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
