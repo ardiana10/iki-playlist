@@ -1366,28 +1366,28 @@ https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MY CHANNELS" tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png",TVRI
+#EXTINF:-1 group-title="MY CHANNELS" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=cf6pp7fn&dl=1",TVRI
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI.id" tvg-logo="https://i.imgur.com/irQoFrd.png" group-title="MY CHANNELS", TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI.id" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="MY CHANNELS", TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA BARAT" tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20BARAT.png" group-title="MY CHANNELS",TVRI JAWA BARAT
+#EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA BARAT" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="MY CHANNELS",TVRI JAWA BARAT
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/TVRI_Sport_2022.svg" group-title="MY CHANNELS",TVRI Sport
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="MY CHANNELS",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 group-title="MY CHANNELS" tvg-logo="https://i.ibb.co.com/d0Sqmwpv/tvri.jpg",TVRI Sport 2
+#EXTINF:-1 group-title="MY CHANNELS" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1",TVRI Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ###http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 ##http://210.210.155.35/qwr9ew/s/s107/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=TVRI_Sport
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI WORLD" tvg-logo="https://yt3.googleusercontent.com/cZVbLx5HjtRTvtmfZLO91BQG3c33v-1LY-ewGyA7TveUg3TMWUTE79Qst-_T9QHvR3nLbKxt=s900-c-k-c0x00ffffff-no-rj" group-title="MY CHANNELS",TVRI WORLD
+#EXTINF:-1 tvg-id="" tvg-name="TVRI WORLD" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="MY CHANNELS",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2492,12 +2492,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1  group-title="HIBURAN" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/TVRI_Sport_2022.svg" group-title="OLAHRAGA",TVRI Sport
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="OLAHRAGA",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.ibb.co.com/d0Sqmwpv/tvri.jpg",TVRI Sport 2
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1",TVRI Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ###http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
@@ -2706,7 +2706,7 @@ http://103.66.62.83:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png",SCTV SPORTS
 http://103.66.62.83:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png",TVRI SPORTS
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1",TVRI SPORTS
 http://103.66.62.83:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi4UmZ8SPoiLvTAAexLRXCO12r_n9ajAmS5fNCTeNdp2YSL6dMBEwT1nvp1JCxruDzsHqxjFujd_IZDKe6XedF7SDnzRiHqLGF216iRV5CrIzeq1B2VJki118wBxqBYjvdnHUZF4qML1zuNOmQnlEl5acYNqkHKGBf_BcSPoIVVUW_v2gH6D1vGxh_v_pT/s700/VOLI%20TV.png",VOLI TV
@@ -3992,7 +3992,7 @@ https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI NASIONAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4000,7 +4000,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI JAKARTA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI JAKARTA
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4008,7 +4008,7 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI WORLD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4016,7 +4016,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SPORT HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SPORT HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4024,7 +4024,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI AMBON
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI AMBON
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4032,7 +4032,7 @@ https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI BALI
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI BALI
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4040,7 +4040,7 @@ https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI BANGKA BELITUNG
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI BANGKA BELITUNG
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4048,7 +4048,7 @@ https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI BENGKULU
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI BENGKULU
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4056,7 +4056,7 @@ https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI GORONTALO
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI GORONTALO
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4064,7 +4064,7 @@ https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI JAWA BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI JAWA BARAT
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4072,7 +4072,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI JAMBI
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI JAMBI
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4080,7 +4080,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI JAWA TENGAH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI JAWA TENGAH
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4088,7 +4088,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI JAWA TIMUR
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI JAWA TIMUR
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4096,7 +4096,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI KALIMANTAN BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI KALIMANTAN BARAT
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4104,7 +4104,7 @@ https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI KALIMANTAN SELATAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI KALIMANTAN SELATAN
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4112,7 +4112,7 @@ https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI KALIMANTAN TENGAH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI KALIMANTAN TENGAH
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4120,7 +4120,7 @@ https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI KALIMANTAN TIMUR
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI KALIMANTAN TIMUR
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4128,7 +4128,7 @@ https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI LAMPUNG
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI LAMPUNG
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4136,7 +4136,7 @@ https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI ACEH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI ACEH
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4144,7 +4144,7 @@ https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI NTB
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI NTB
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4152,7 +4152,7 @@ https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI NTT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI NTT
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4160,7 +4160,7 @@ https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI PAPUA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI PAPUA
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4168,7 +4168,7 @@ https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI RIAU
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI RIAU
 https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4176,7 +4176,7 @@ https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SULAWESI BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SULAWESI BARAT
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4184,7 +4184,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SULAWESI SELATAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SULAWESI SELATAN
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4192,7 +4192,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SULAWESI TENGAH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SULAWESI TENGAH
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4200,7 +4200,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SULAWESI TENGGARA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SULAWESI TENGGARA
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4208,7 +4208,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SULAWESI UTARA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SULAWESI UTARA
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4216,7 +4216,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SUMATRA BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SUMATRA BARAT
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4224,7 +4224,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SUMATRA SELATAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SUMATRA SELATAN
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4232,7 +4232,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI SUMATRA UTARA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI SUMATRA UTARA
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4240,7 +4240,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI YOGYAKARTA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI YOGYAKARTA
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4248,7 +4248,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TVRI",TVRI PAPUA BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TVRI",TVRI PAPUA BARAT
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
 
@@ -4451,11 +4451,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 tvg-id="19" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="NASIONAL", TVRI NASIONAL HD
+#EXTINF:-1 tvg-id="19" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="NASIONAL", TVRI NASIONAL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="NASIONAL", TVRI NASIONAL KH
+#EXTINF:-1 tvg-id="19" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="NASIONAL", TVRI NASIONAL KH
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
@@ -4623,7 +4623,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="NASIONAL EPG", TVRI
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="NASIONAL EPG", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
  
@@ -4682,7 +4682,7 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeEOI_Lz6_e1PjvUDOLull54c8oCcnQDdU5zsg-_7E57XW9FAOO_Ca7oU6QPqeo_JU8rs8g6o6HcgVVb4T5PCY5Xk6EgQlMM0kCORJF_jSLpbRszNQaY7xb_S9l8CLgXydmw4fLuD0vFVOYH61HPkp7TvHlBfR1DJHjw8Pl7P41tFUzuKA_yz7DTW8WTkS/s700/MAX%20SPORTS.png" group-title="SPORTS", MAX SPORTS
 https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png" group-title="SPORTS", TVRI SPORT
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=cf6pp7fn&dl=1" group-title="SPORTS", TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
@@ -8340,12 +8340,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
  
-#EXTINF:-1 tvg-id="118" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png" group-title="DENS TV", TVRI SPORT
+#EXTINF:-1 tvg-id="118" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=cf6pp7fn&dl=1" group-title="DENS TV", TVRI SPORT
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
  
-#EXTINF:-1 tvg-id="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="DENS TV", TVRI
+#EXTINF:-1 tvg-id="17" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="DENS TV", TVRI
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
@@ -8573,7 +8573,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="VISION+ IPTV", TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="VISION+ IPTV", TVRI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -8825,7 +8825,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=DASH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="VISION+",TVRI NASIONAL
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="VISION+",TVRI NASIONAL
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -9489,7 +9489,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 #EXTINF:-1 tvg-id="24" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTUvjGJuQr4iX_T6xiHIKNQmxNy_Sl4Tc8Ns7qgp6SxRr3xCh1aTiS-H0gPLsLTFQMAGGrdse86IuX1VPhdu5scP4c5GFh0AmE9CD3vUlz5DlVM6-Kl3OSM_c8YON3NFnYLKCjE0JNHZeirShyVVjX9bmdRRU2eDUoKZ6s942Mwk8ZUJQVqVbfLIKgmq2S/s700/SINDO%20NEWS%20TV.png" group-title="INDIHOME TV",SINDONEWS
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="INDIHOME TV", TVRI
+#EXTINF:-1 tvg-id="17" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="INDIHOME TV", TVRI
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/a9uswieie3jt4y2ssl8s6/bali.jpg?rlkey=6olbow2bc5y2ptk0g0q6ngcui&st=7wlrxrse&dl=1" group-title="INDIHOME TV",BALI TV
@@ -10204,16 +10204,16 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png",TVRI
+#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=cf6pp7fn&dl=1",TVRI
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI.id" tvg-logo="https://i.imgur.com/irQoFrd.png" group-title="TV INDONESIA", TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI.id" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=cf6pp7fn&dl=1" group-title="TV INDONESIA", TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA BARAT" tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20BARAT.png" group-title="TV INDONESIA",TVRI JAWA BARAT
+#EXTINF:-1 tvg-id="" tvg-name="TVRI JAWA BARAT" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=cf6pp7fn&dl=1" group-title="TV INDONESIA",TVRI JAWA BARAT
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI WORLD" tvg-logo="https://yt3.googleusercontent.com/cZVbLx5HjtRTvtmfZLO91BQG3c33v-1LY-ewGyA7TveUg3TMWUTE79Qst-_T9QHvR3nLbKxt=s900-c-k-c0x00ffffff-no-rj" group-title="TV INDONESIA",TVRI WORLD
+#EXTINF:-1 tvg-id="" tvg-name="TVRI WORLD" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=cf6pp7fn&dl=1" group-title="TV INDONESIA",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -10221,7 +10221,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="TV INDONESIA",TVRI SPORT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/2vbvnu3mixysza66nl1nb/tvri.jpg?rlkey=bsndbpli544hcj7bmlb85elsr&st=3mtzssho&dl=1" group-title="TV INDONESIA",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvrparlemen.dpr.go.id/wp-content/uploads/2023/04/TVR-PARLEMEN-DPR-RI.png" group-title="TV INDONESIA", TV PARLEMEN
