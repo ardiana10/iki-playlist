@@ -1347,7 +1347,7 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/_Z7py7IKtX1uoNxGY58rwfukkZBChuNmTT_zKkoOpLvQOqSY9i7OyhaMRwe2HGTKc74A" group-title="MY CHANNELS",TV Tabalong
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/hwdcenpl0lkj0drv983oh/tabalong.jpg?rlkey=vnojji05aavf4chfy8x9t70ih&st=k27jeh5x&dl=1" group-title="MY CHANNELS",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znFJy1M.jpeg" group-title="MY CHANNELS",TV1
@@ -3719,7 +3719,7 @@ https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpvOwxCSLRymuyZz_26SRY6XuFOGBmfnrqnLMFUar5tQwTWTE23achIsunx4m4pnOWe6C_kVzQSlgEgc5HnerMnJfZpG49bb4vtkdJQ3mDSpbLmZ0xopSXdxR7LRh05Y5V6sZNnFJc1WC9x9HPNhMRWAQ896cnWSLDKKvIjMvIM-hJaRQUr10AahWNv3tW/s700/MADU%20TV.png" group-title="DAERAH",MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2jNlSz13icwAFNNaZwposKG-OVZoPaWkwkLAqMN85_98ELSxuZ7fBTRlRBrF70dQQ1B2T0_OwfDc-VLETMvrSCnyzJlMFeeskSMIRksM6qrPmmSJAPBjF2heXDgrniUCjaLZqkgXaO0X5PKZneByLyTbvojPzl2GECWVU-Ix5DA3eMvkTC_XnGVcKQzLr/s700/TV%20TABALONG.png" group-title="DAERAH",TV TABALONG
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hwdcenpl0lkj0drv983oh/tabalong.jpg?rlkey=vnojji05aavf4chfy8x9t70ih&st=k27jeh5x&dl=1" group-title="DAERAH",TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w430128046.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtJp1b9YkdM9hby_8nf_q9S_lqAwmzNDrGE5Fw8kFiUnoDymBOpAgQDNAd98w4TE7Nd1UWAYbFRfRILzqtbo9IBGhGpIE2bayCwF_YRZHryciD_NUWB3yXRM_uHjkJ8kCxBaNZlMhpunjUgnVgSqkgbyh1suvLE8sjY2fA5K2ELCWWVH-35bj43l6lqMAC/s700/PORTALOKA%20TV.png" group-title="DAERAH",PORTALOKA TV
@@ -10434,5 +10434,5 @@ https://e.siar.us/live/surabayatv.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/_Z7py7IKtX1uoNxGY58rwfukkZBChuNmTT_zKkoOpLvQOqSY9i7OyhaMRwe2HGTKc74A" group-title="TV INDONESIA",TV Tabalong
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/hwdcenpl0lkj0drv983oh/tabalong.jpg?rlkey=vnojji05aavf4chfy8x9t70ih&st=k27jeh5x&dl=1" group-title="TV INDONESIA",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
