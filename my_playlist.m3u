@@ -332,7 +332,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/in
 #KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mediampd/CGTNDocumentaryHD.mpd
 
-#EXTINF:-1 tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="MY CHANNELS", Channel Jowo
+#EXTINF:-1 tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id" tvg-logo="https://www.dropbox.com/scl/fi/fyaquph6sxuh2l9c7yy4o/JOWO.jpg?rlkey=6itqwnr6ysyx04cbq8w3woxvh&st=34ofiysr&dl=1" group-title="MY CHANNELS", Channel Jowo
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="MY CHANNELS",CINEMA WORLD
@@ -3661,7 +3661,7 @@ https://sauridigital.my.id/balabala/tube-live.php?channel=UC73H5p3GP8b5N1f3hozIX
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5D0jkqDuOlSu-Dh-5B8s4Nc22EhRfBl5raXETjm4aep0ONdFG03uNXkmRwDu2yGPR5TjJ9NGUuplGo1KPBMKJINnBlcC-a0kFQpoF3SOnLmrhkTfbLYKMeuW50xe691Pt3dZdYt1QJBvJk67HSj4X_pwN2cjyviL0sw2rng1I4rN0ug1Gmfq6-vLIV_f/s700/JOWO%20CANNEL.png" group-title="DAERAH",JOWO CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/fyaquph6sxuh2l9c7yy4o/JOWO.jpg?rlkey=6itqwnr6ysyx04cbq8w3woxvh&st=34ofiysr&dl=1" group-title="DAERAH",JOWO CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
@@ -8330,7 +8330,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
-#EXTINF:-1 tvg-id="75" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5D0jkqDuOlSu-Dh-5B8s4Nc22EhRfBl5raXETjm4aep0ONdFG03uNXkmRwDu2yGPR5TjJ9NGUuplGo1KPBMKJINnBlcC-a0kFQpoF3SOnLmrhkTfbLYKMeuW50xe691Pt3dZdYt1QJBvJk67HSj4X_pwN2cjyviL0sw2rng1I4rN0ug1Gmfq6-vLIV_f/s700/JOWO%20CANNEL.png" group-title="DENS TV", JOWO CHANNEL
+#EXTINF:-1 tvg-id="75" tvg-logo="https://www.dropbox.com/scl/fi/fyaquph6sxuh2l9c7yy4o/JOWO.jpg?rlkey=6itqwnr6ysyx04cbq8w3woxvh&st=34ofiysr&dl=1" group-title="DENS TV", JOWO CHANNEL
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8
@@ -10271,7 +10271,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 #EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-name="Celebrities TV" tvg-logo="https://iili.io/JZIn3ep.png" group-title="TV INDONESIA", Celebrities TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
-#EXTINF:-1 tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="TV INDONESIA", Channel Jowo
+#EXTINF:-1 tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id" tvg-logo="https://www.dropbox.com/scl/fi/fyaquph6sxuh2l9c7yy4o/JOWO.jpg?rlkey=6itqwnr6ysyx04cbq8w3woxvh&st=34ofiysr&dl=1" group-title="TV INDONESIA", Channel Jowo
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
