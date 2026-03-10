@@ -112,7 +112,7 @@ https://kusnadipepenk.github.io/ntn/arns4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 
-#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="MY CHANNELS", BALI TV
+#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://www.dropbox.com/scl/fi/a9uswieie3jt4y2ssl8s6/bali.jpg?rlkey=6olbow2bc5y2ptk0g0q6ngcui&st=7wlrxrse&dl=1" group-title="MY CHANNELS", BALI TV
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMRML1qp/BANDUNG.png" group-title="MY CHANNELS", BANDUNG TV
@@ -3902,7 +3902,7 @@ https://flv.intechmedia.net/live/ch52.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfYBzCOsXiIeCh_ngwERkqyEnrN8iCQE88njJ6YEIPaOoUR2uJWobJGRxC-SyoJf5SOyaMJJXwTS2RB5DNtdIycAKvSTPOyZXamdKWBvgKSui0oYIfISOnySFjsBnB58ScfHxfR7ZwWZr0aNh7XpJZnO5MR-ZEtTdQIMSg2FZMpfI6kgfSO4QNnzBxvlsi/s700/PON%20TV.png" group-title="DAERAH",PON TV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w1289450726.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaewZjr7TBu8DYkZL_jlqTpXvDqr13LS5bwkhp_x_7bWhiIj1F-RpiHym8-ypkuzIeulsooFpHAFC-ljdptt_oSx9Z9ppthWukw_JvxpYtPXIMH-cAtr7lxY8DfUws_HxFODgdFxmnR-4fSZ_46gJU4PrSJ4DMKesvNbfRpf3Ju7L_ToJ2aT7rEwZzyp8s/s700/BALI%20TV.png" group-title="DAERAH",BALI TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/a9uswieie3jt4y2ssl8s6/bali.jpg?rlkey=6olbow2bc5y2ptk0g0q6ngcui&st=7wlrxrse&dl=1" group-title="DAERAH",BALI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8674,7 +8674,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMBOocFuESu6S13QMoV2ARjAbZ-PClEag3vSRqmgnn0Ouuz4lYg2O_JmGDdMdTPTY0dDOrcgchL_s8NMRZBVe50ha6Yd06F9NhXlArpu5-JvIcgKrTycMFad5hDea5Fy2XPYrCCkKzEWvavq2pJ-OYFyMpP8H4aWZqI3pBnVicZfICaIgH9w0SkAxYJ-Ju/s700/CGTN%20DOCUMENTARY.png" group-title="VISION+ IPTV",CGTN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaewZjr7TBu8DYkZL_jlqTpXvDqr13LS5bwkhp_x_7bWhiIj1F-RpiHym8-ypkuzIeulsooFpHAFC-ljdptt_oSx9Z9ppthWukw_JvxpYtPXIMH-cAtr7lxY8DfUws_HxFODgdFxmnR-4fSZ_46gJU4PrSJ4DMKesvNbfRpf3Ju7L_ToJ2aT7rEwZzyp8s/s700/BALI%20TV.png" group-title="VISION+ IPTV", BALI TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/a9uswieie3jt4y2ssl8s6/bali.jpg?rlkey=6olbow2bc5y2ptk0g0q6ngcui&st=7wlrxrse&dl=1" group-title="VISION+ IPTV", BALI TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9s3xa8J0VT-eWp644XV4gDQR0PQyMHaWvp1jTp9E2m9a6jcHAN3aIfkpfDmUeOOeVXIcGMUZWYBt6boOSLCwZtDgXdhGIdi02K5QIT-wleZYsucdCjRNxKV76n4jLT7CTOQLitUTUc6ks_OiJ6r787UyabloODmtFOs9dAtmk1leKJPNTTOGzwV_LItx8/s700/LIFETIME.png" group-title="VISION+ IPTV", LIFETIME
@@ -8860,7 +8860,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaewZjr7TBu8DYkZL_jlqTpXvDqr13LS5bwkhp_x_7bWhiIj1F-RpiHym8-ypkuzIeulsooFpHAFC-ljdptt_oSx9Z9ppthWukw_JvxpYtPXIMH-cAtr7lxY8DfUws_HxFODgdFxmnR-4fSZ_46gJU4PrSJ4DMKesvNbfRpf3Ju7L_ToJ2aT7rEwZzyp8s/s700/BALI%20TV.png" group-title="VISION+",BALI TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/a9uswieie3jt4y2ssl8s6/bali.jpg?rlkey=6olbow2bc5y2ptk0g0q6ngcui&st=7wlrxrse&dl=1" group-title="VISION+",BALI TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -9492,7 +9492,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-id="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="INDIHOME TV", TVRI
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaewZjr7TBu8DYkZL_jlqTpXvDqr13LS5bwkhp_x_7bWhiIj1F-RpiHym8-ypkuzIeulsooFpHAFC-ljdptt_oSx9Z9ppthWukw_JvxpYtPXIMH-cAtr7lxY8DfUws_HxFODgdFxmnR-4fSZ_46gJU4PrSJ4DMKesvNbfRpf3Ju7L_ToJ2aT7rEwZzyp8s/s700/BALI%20TV.png" group-title="INDIHOME TV",BALI TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/a9uswieie3jt4y2ssl8s6/bali.jpg?rlkey=6olbow2bc5y2ptk0g0q6ngcui&st=7wlrxrse&dl=1" group-title="INDIHOME TV",BALI TV
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 ############### RELIGI ###############
@@ -10237,7 +10237,7 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png",ANTARA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
-#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="TV INDONESIA", BALI TV
+#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://www.dropbox.com/scl/fi/a9uswieie3jt4y2ssl8s6/bali.jpg?rlkey=6olbow2bc5y2ptk0g0q6ngcui&st=7wlrxrse&dl=1" group-title="TV INDONESIA", BALI TV
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMRML1qp/BANDUNG.png" group-title="TV INDONESIA", BANDUNG TV
