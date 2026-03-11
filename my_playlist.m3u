@@ -10245,6 +10245,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://www.dropbox.com/scl/fi/2pdycqxtagf13gws3pe0e/LINGKAR-TV.jpg?rlkey=z0ymag0gemdjongpkgkid311j&st=6e9egb8a&dl=1" group-title="TV INDONESIA",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
+# lieur euy
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
