@@ -362,13 +362,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDang
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#EXTINF:-1 tvg-id="Citra Drama" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="MY CHANNELS" tvg-logo="https://www.dropbox.com/scl/fi/vebnwsgscaisf6wji98lk/CITRA-DRAMA.jpg?rlkey=ipnqbgp2z5zva0dfmkewrqlva&st=m27ugmsk&dl=1",Citra Drama 
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://www.dropbox.com/scl/fi/vd128cdhyycdt8bkka780/CITRA-ENTERTAINMENT.jpg?rlkey=ya6a20i0ptzu5dgo1snyojcz0&st=02l9051p&dl=1" group-title="MY CHANNELS",Citra Entertainment 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
@@ -6524,12 +6517,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.dropbox.com/scl/fi/vebnwsgscaisf6wji98lk/CITRA-DRAMA.jpg?rlkey=ipnqbgp2z5zva0dfmkewrqlva&st=m27ugmsk&dl=1",CITRA DRAMA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2jbw6bhz8184u1r4oidt2/CELEB-TV.jpg?rlkey=u9l7yqruup7ejpbkzlsi30sbo&st=cco5sz9g&dl=1" group-title="ENTERTAINMENT",CELEBRITIES TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -10177,21 +10164,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBios
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 #EXTINF:-1 tvg-id="Citra Dangdut" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="TV INDONESIA" tvg-logo="https://www.dropbox.com/scl/fi/548nzwnk2uif99gccvklk/CITRA-DANGDUT.jpg?rlkey=394czng28kr5y490fyjloy6zp&st=6vsu4mx1&dl=1",Citra Dangdut 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#EXTINF:-1 tvg-id="Citra Drama" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="TV INDONESIA" tvg-logo="https://www.dropbox.com/scl/fi/vebnwsgscaisf6wji98lk/CITRA-DRAMA.jpg?rlkey=ipnqbgp2z5zva0dfmkewrqlva&st=m27ugmsk&dl=1",Citra Drama 
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vebnwsgscaisf6wji98lk/CITRA-DRAMA.jpg?rlkey=ipnqbgp2z5zva0dfmkewrqlva&st=m27ugmsk&dl=1" group-title="TV INDONESIA", CITRA DRAMA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-
-https://playlist.xtv.biz.id/4932d981e4de956f65d9818a668a2343.mpd
-#EXTINF:0 tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/vebnwsgscaisf6wji98lk/CITRA-DRAMA.jpg?rlkey=ipnqbgp2z5zva0dfmkewrqlva&st=m27ugmsk&dl=1" group-title="TV INDONESIA",Citra Drama 2
-https://playlist.xtv.biz.id/4932d981e4de956f65d9818a668a2343.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
