@@ -886,6 +886,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2pdycqxtagf13gws3pe0e/LINGKAR-TV.jpg?rlkey=z0ymag0gemdjongpkgkid311j&st=72pd1ah4&dl=1" group-title="MY CHANNELS",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
+# puyeng ========================================================
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTajg7WlbiXuj2CvNtHRJNzOnsQ16MsVyd3A&s" group-title="MY CHANNELS", LIVE MADINAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
@@ -10182,6 +10184,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDang
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 #EXTINF:-1 tvg-id="Citra Drama" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="TV INDONESIA" tvg-logo="https://www.dropbox.com/scl/fi/vebnwsgscaisf6wji98lk/CITRA-DRAMA.jpg?rlkey=ipnqbgp2z5zva0dfmkewrqlva&st=m27ugmsk&dl=1",Citra Drama 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vebnwsgscaisf6wji98lk/CITRA-DRAMA.jpg?rlkey=ipnqbgp2z5zva0dfmkewrqlva&st=m27ugmsk&dl=1" group-title="TV INDONESIA", CITRA DRAMA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+
+https://playlist.xtv.biz.id/4932d981e4de956f65d9818a668a2343.mpd
+#EXTINF:0 tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/vebnwsgscaisf6wji98lk/CITRA-DRAMA.jpg?rlkey=ipnqbgp2z5zva0dfmkewrqlva&st=m27ugmsk&dl=1" group-title="TV INDONESIA",Citra Drama 2
+https://playlist.xtv.biz.id/4932d981e4de956f65d9818a668a2343.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
