@@ -8,7 +8,8 @@
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png"
-group-title="NASIONAL", ANTV VD #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6 #EXTVLCOPT:http-referrer=http://www.vidio.com/ #EXTVLCOPT:http-origin=http://www.vidio.com http://tvratu.my.id/nissa/index.mpd?id=782&type=dash 
+group-title="NASIONAL", ANTV VD #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6 #EXTVLCOPT:http-referrer=http://www.vidio.com/ #EXTVLCOPT:http-origin=http://www.vidio.com
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="TV INDONESIA",INDOSIAR
 https://s.id/Shareext_liga1_m3u8
