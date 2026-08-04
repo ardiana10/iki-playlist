@@ -75,7 +75,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="TV INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
@@ -185,19 +185,20 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-name="Celebrities TV" tvg-logo="https://www.dropbox.com/scl/fi/2jbw6bhz8184u1r4oidt2/CELEB-TV.jpg?rlkey=u9l7yqruup7ejpbkzlsi30sbo&st=cco5sz9g&dl=1" group-title="TV INDONESIA", Celebrities TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co.com/MybZKSFk/IMG-20250911-231120.png", JAKARTA GLOBE
+#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://i.ibb.co.com/MybZKSFk/IMG-20250911-231120.png", JAKARTA GLOBE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg",JAWAPOSTV
+#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg",JAWAPOSTV
 https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/TVR%20PARLEMEN.png",TVR PARLEMEN
+
+#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/TVR%20PARLEMEN.png",TVR PARLEMEN
 https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg",CHANNEL JOWO
+#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg",CHANNEL JOWO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h208/01.m3u8
 
@@ -211,7 +212,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-id="HanacarakaTV.id" group-title="LOKAL" tvg-logo="https://www.visionplus.id/images/repository/243/437243-SNAPSHOT-l.png",HANACARAKATV
+#EXTINF:-1 tvg-id="HanacarakaTV.id" group-title="TV INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/243/437243-SNAPSHOT-l.png",HANACARAKATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
